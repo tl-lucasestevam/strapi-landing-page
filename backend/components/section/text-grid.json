@@ -1,8 +1,8 @@
 {
   "collectionName": "components_section_text_grids",
   "info": {
-    "name": "text_grid",
-    "icon": "text-width"
+    "name": "text-grid",
+    "icon": "address-card"
   },
   "options": {},
   "attributes": {

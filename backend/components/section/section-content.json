@@ -2,8 +2,7 @@
   "collectionName": "components_section_section_contents",
   "info": {
     "name": "section_content",
-    "icon": "align-justify",
-    "description": ""
+    "icon": "adjust"
   },
   "options": {},
   "attributes": {
@@ -18,7 +17,7 @@
     "metadata": {
       "type": "component",
       "repeatable": false,
-      "component": "section.section-matadata",
+      "component": "section.section-metadata",
       "required": true
     }
   }

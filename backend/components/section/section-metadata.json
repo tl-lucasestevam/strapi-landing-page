@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_section_section_matadata",
+  "collectionName": "components_section_section_metadata",
   "info": {
-    "name": "section_matadata",
+    "name": "section_metadata",
     "icon": "chart-line"
   },
   "options": {},
@@ -12,8 +12,8 @@
     },
     "section_id": {
       "type": "string",
-      "unique": true,
       "required": true,
+      "unique": true,
       "maxLength": 50,
       "minLength": 4,
       "regex": "^[a-zA-Z]+([0-9-]*[a-zA-Z]+)*$"

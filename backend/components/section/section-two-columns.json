@@ -2,7 +2,7 @@
   "collectionName": "components_section_section_two_columns",
   "info": {
     "name": "section_two_columns",
-    "icon": "columns"
+    "icon": "ad"
   },
   "options": {},
   "attributes": {
@@ -26,7 +26,7 @@
     "metadata": {
       "type": "component",
       "repeatable": false,
-      "component": "section.section-matadata",
+      "component": "section.section-metadata",
       "required": true
     }
   }

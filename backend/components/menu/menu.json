@@ -2,7 +2,7 @@
   "collectionName": "components_menu_menus",
   "info": {
     "name": "menu",
-    "icon": "link",
+    "icon": "align-justify",
     "description": ""
   },
   "options": {},
@@ -20,7 +20,16 @@
       "type": "text",
       "required": true
     },
-    "menu_link": {
+    "logo_link": {
+      "type": "string",
+      "required": true
+    },
+    "open_in_new_tab": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "menu": {
       "type": "component",
       "repeatable": true,
       "component": "menu.menu-links",
